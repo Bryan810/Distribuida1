@@ -1,0 +1,12 @@
+********************************************************************************
+product = Open Liberty 18.0.0.4 (wlp-1.0.23.cl180420181121-0300)
+wlp.install.dir = C:/Users/Bryan/Desktop/Nueva carpeta/guide-rest-intro/finish/target/liberty/wlp/
+java.home = C:\Program Files\Java\jdk1.8.0_181\jre
+java.version = 1.8.0_181
+java.runtime = Java(TM) SE Runtime Environment (1.8.0_181-b13)
+os = Windows 10 (10.0; amd64) (es_EC)
+process = 7812@DESKTOP-UOK5UCU
+********************************************************************************
+[27/01/19 16:46:32:512 COT] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: El servidor defaultServer se ha lanzado.
+[27/01/19 16:47:08:614 COT] 00000001 com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: El kernel se ha iniciado después de 37,049 segundos
+[27/01/19 16:47:09:160 COT] 0000001b com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: La actualización de características se ha iniciado.
